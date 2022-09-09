@@ -22,7 +22,7 @@ class TCPClient extends JFrame implements ActionListener, MouseListener {
 	String hostAddr;
 	int portNumber;
 	int c;
-	int size = 9022386;
+	int size = 100000000;
 	JList<String> filelist;
 	String[] names = new String[10000];
 	int len; // number of files on the server retrieved
@@ -257,7 +257,7 @@ class TCPClient extends JFrame implements ActionListener, MouseListener {
 	}
 
 	private static void sendBytes(BufferedInputStream in , OutputStream out) throws Exception {
-		int size = 9022386;
+		int size = 100000000;
 		byte[] data = new byte[size];
 		int bytes = 0;
 		int c = in.read(data, 0, data.length);
