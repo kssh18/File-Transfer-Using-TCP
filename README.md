@@ -50,3 +50,8 @@ Choose file to be downloaded from the panel and click on **download**. :arrow_do
 If you do not have Java installed, refer to this [Java installation guide](https://www.java.com/en/download/help/download_options.xml)
 
 *For newbies, remember to set path variables in Windows and OSX*
+
+### Contributors
+[![portfolio](https://img.shields.io/badge/Likhit_Kalla-E23?style=for-the-badge)](https://github.com/likhitkalla)<br>
+[![portfolio](https://img.shields.io/badge/Koganti_Sri_Sai_Harshith-072F5F?style=for-the-badge)](https://github.com/kssh18)<br>
+[![portfolio](https://img.shields.io/badge/Yashwanth_Kiran-1e90ff?style=for-the-badge)](https://github.com/iyashk)<br>
